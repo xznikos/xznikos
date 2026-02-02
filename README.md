@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Níkolas Kaio, tenho 17 anos e sou natural de Brasília. Estou no 3º ano do ensino médio e sou formado em técnico em Desenvolvimento de Sistemas. Atualmente, continuo estudando sobre assuntos na área. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu GitHub, onde compartilho meus projetos.
+Me chamo Níkolas Kaio S. da Mota, tenho 17 anos e sou natural de Brasília. Estou no 3º ano do ensino médio e sou formado em técnico em Desenvolvimento de Sistemas. Atualmente, continuo estudando sobre assuntos na área. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu GitHub, onde compartilho meus projetos.
 
 ---
 
@@ -26,27 +26,27 @@ Me chamo Níkolas Kaio, tenho 17 anos e sou natural de Brasília. Estou no 3º a
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="Python"
+    title="Python" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Django"
+    title="Django" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
 />
 <img 
     align="left" 

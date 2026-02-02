@@ -72,10 +72,10 @@ Me chamo Níkolas Kaio S. da Mota, tenho 17 anos e sou natural de Brasília. Est
 
 ### 📊 Commits
 
-<picture>
+<img
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xznikos/xznikos/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xznikos/xznikos/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/xznikos/xznikos/output/pacman-contribution-graph.svg">
-</picture>
+/>
 
 </p>

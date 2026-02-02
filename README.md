@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Níkolas Mota
+# 🙋🏽 Níkolas Mota
 
 **`Desenvolvedor Backend`**
 

@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Níkolas Kaio S. da Mota, tenho 17 anos e sou natural de Brasília. Estou no 3º ano do ensino médio e sou formado em técnico em Desenvolvimento de Sistemas. Atualmente, continuo estudando sobre assuntos na área. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu GitHub, onde compartilho meus projetos.
+Me chamo Níkolas Kaio S. da Mota, tenho 17 anos e sou natural de Brasília. Estou no 3º ano do ensino médio e sou formado em técnico em Desenvolvimento de Sistemas. Atualmente, continuo estudando sobre assuntos na área. Sou apaixonado por tecnologia e compartilho meus conhecimentos através do meu GitHub, onde compartilho meus projetos.
 
 ---
 
